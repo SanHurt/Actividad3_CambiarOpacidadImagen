@@ -14,7 +14,7 @@ namespace Actividad3_CambiarOpacidadImagen
             InitializeComponent();
         }
 
-        private void altaRadioButton_Click(object sender, RoutedEventArgs e)
+        private void altaRadioButton_Click(object sender, RoutedEventArgs e) 
         {
             imagenImage.Opacity = 0.9;
         }
